@@ -1,0 +1,2 @@
+git config --global user.name 'fa18'
+git config --global user.mail 'fabienfontaine@hotmail.fr'
